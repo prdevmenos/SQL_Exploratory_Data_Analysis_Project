@@ -1,0 +1,16 @@
+# Temporary files
+*.tmp
+*.log
+
+# Environment and local configuration
+.env
+.env.*
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# SQL Server backup files
+*.bak
+*.trn
